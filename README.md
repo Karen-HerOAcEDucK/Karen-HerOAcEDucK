@@ -22,7 +22,7 @@
   
 ## Connect with me
 
-<img src ="./social_dashboard.svg" align ="left" width = 60%>
+<img src ="./social_dashboard.svg" align ="left" width = 40%>
 <div>
 
 <div align="right">
