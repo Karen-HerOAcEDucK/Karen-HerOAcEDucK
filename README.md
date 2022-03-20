@@ -23,12 +23,21 @@
 ## Connect with me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-ef5faa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
+    <a href="https://www.linkedin.com/in/karen-alexandre-570292203/">
+        <img src="https://img.shields.io/badge/-LinkedIn-ef5faa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://www.instagram.com/alexandrekaren/">
+        <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://www.facebook.com/karenleticia.alexandre.3/">
+        <img src="https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://www.youtube.com/channel/UCAD-52fCNBCMQG1qT2nM7jQ">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://discord.gg/2UkftaPY">
+        <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
+    </a>
 </div>
 
 <hr>
