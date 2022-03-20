@@ -8,13 +8,12 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-PHP-yellow?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Java-green?style=for-the-badge&logo=java&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-React-indigo?style=for-the-badge&logo=react&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-HTML-ef5faa?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-indigo?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
 </div>
 
