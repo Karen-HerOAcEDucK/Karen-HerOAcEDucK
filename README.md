@@ -22,16 +22,26 @@
   
 ## Connect with me
 
-<img src ="./social_dashboard.svg" align = "left" width = 50%>
+<img src ="./social_dashboard.svg" align ="left" width = 60%>
 <div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-ef5faa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
+<div align="right">
+    <div>
+        <img src="https://img.shields.io/badge/-LinkedIn-ef5faa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
+    </div>
+        <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black">
+    <div>
+        <img src="https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/-Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
+    </div>
 </div>
 
 <hr>
