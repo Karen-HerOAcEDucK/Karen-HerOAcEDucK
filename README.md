@@ -1,4 +1,4 @@
-<img src="Rainbow.gif" width="100%">
+<img src="./Rainbow.gif" width="100%">
 
 <img src="./Hero.png" width="100%">
 
