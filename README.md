@@ -49,10 +49,9 @@
 <hr>
 
 <div align="center">
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=swxd1w1411n0ve1wmv3l3i51c&count=10)
-  <!-- <a href="https://open.spotify.com/playlist/2KxSt4RFhOFIMZyCrdEAtE">
+  <a href="https://open.spotify.com/playlist/2KxSt4RFhOFIMZyCrdEAtE">
     <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-  </a> --> 
+  </a>
 </div>
 
 <hr>
