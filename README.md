@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-React-green?style=for-the-badge&logo=react&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-indigo?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black">
 </div>
 
 <hr>
