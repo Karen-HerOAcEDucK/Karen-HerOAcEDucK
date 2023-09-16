@@ -37,6 +37,12 @@
     <a href="https://discord.gg/2UkftaPY">
         <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
     </a>
+    <a href="https://www.twitch.tv/heroaceduck">
+        <img src="https://img.shields.io/badge/-Twitch-indigo?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://www.tiktok.com/@heroaceduck">
+        <img src="https://img.shields.io/badge/-Tiktok-purple?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black">
+    </a>
 </div>
 
 <hr>
