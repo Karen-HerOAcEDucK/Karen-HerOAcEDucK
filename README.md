@@ -48,13 +48,6 @@
 
 <hr>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=swxd1w1411n0ve1wmv3l3i51c&count=1)
-
-<hr>
-
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-
 <div>
   <img src="./Gradients.png" alt="Gradients" width="100%">
 </div>
