@@ -53,8 +53,8 @@ Desenvolvedora Web apaixonada por tecnologia, desafios e por criar soluções qu
 > "Codar é traduzir ideias em soluções. E todo dia é uma nova chance de evoluir." 🌱💻
 
 ☕ Viciada em café e desafios  
-⚡ Programando com foco e criatividade
-🎧 Sempre com um fone e uma boa playlist
+⚡ Programando com foco e criatividade  
+🎧 Sempre com um fone e uma boa playlist  
 💜 Sonho: Criar algo que ajude outras pessoas, nem que seja só um pouquinho  
 🎯 Motto: Pequenos commits constroem grandes projetos
 
