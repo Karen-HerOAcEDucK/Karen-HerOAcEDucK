@@ -1,61 +1,61 @@
-<img src="./Rainbow.gif" width="100%">
+<h2 align="center">👩‍💻 Olá, eu sou a Karen!</h2>
 
-<img src="./Hero.png" width="100%">
+<p align="center">
+Desenvolvedora Web apaixonada por tecnologia, desafios e por criar soluções que realmente fazem a diferença! 🚀  
+</p>
 
-## ☕ Hey! Welcome to my profile! 
+---
 
+### 🌟 Sobre mim
 
-<hr>
+- 💼 Desenvolvedora Web na **Starplast**
+- 🛠️ Já atuei como estagiária no suporte da mesma empresa
+- 📚 Em constante evolução com foco nas tecnologias mais atuais
+- 👩‍🎓 Estudando e me profissionalizando para me tornar uma dev cada vez mais completa
+- 🎯 Foco, dedicação e aprendizado fazem parte da minha jornada
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-ef5faa?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-React-green?style=for-the-badge&logo=react&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-indigo?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black">
-</div>
+---
 
-<hr>
-  
-## Connect with me
+### 💻 Tecnologias que eu uso
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/karen-alexandre-570292203/">
-        <img src="https://img.shields.io/badge/-LinkedIn-ef5faa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://www.instagram.com/alexandrekaren/">
-        <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://www.facebook.com/karenleticia.alexandre.3/">
-        <img src="https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://www.youtube.com/channel/UCAD-52fCNBCMQG1qT2nM7jQ">
-        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://discord.gg/2UkftaPY">
-        <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://www.twitch.tv/heroaceduck">
-        <img src="https://img.shields.io/badge/-Twitch-indigo?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black">
-    </a>
-    <a href="https://www.tiktok.com/@heroaceduck">
-        <img src="https://img.shields.io/badge/-Tiktok-purple?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black">
-    </a>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) &nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) &nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) &nbsp;
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) &nbsp;
 
-<hr>
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-HerOAcEDucK&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karen-HerOAcEDucK&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
-</div>
+### 🚧 Projetos em construção ou destaque
 
-<hr>
+- 💳 Gerador de Boletos com Boleto2Net (C#)
+- 📊 Dashboard em Angular com ag-Grid
+- 🌿 Aplicação de Aromaterapia e Essências
 
-<div>
-  <img src="./Gradients.png" alt="Gradients" width="100%">
-</div>
+*(Se quiser, posso deixar os links desses projetos aqui também!)*
 
-<img src="./Rainbow.gif" width="100%">
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karen-HerOAcEDucK&show_icons=true&theme=radical" width="48%" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-HerOAcEDucK&layout=compact&theme=radical" width="37%"/>
+</p>
+
+---
+
+### ✨ Um toque pessoal
+
+> "Codar é traduzir ideias em soluções. E todo dia é uma nova chance de evoluir." 🌱💻
+
+☕ Viciada em café e desafios  
+💜 Sonho: Criar algo que ajude outras pessoas, nem que seja só um pouquinho  
+🎯 Motto: Pequenos commits constroem grandes projetos
+
+---
+
+### 💌 Vamos conversar?
+
+Me chama no [LinkedIn](https://www.linkedin.com/in/karen-alexandre-570292203/) ou dá uma olhada nos meus repositórios — tô sempre aprendendo algo novo e compartilhando por aqui! 😊
