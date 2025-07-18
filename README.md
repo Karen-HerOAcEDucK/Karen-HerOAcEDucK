@@ -37,8 +37,6 @@ Desenvolvedora Web apaixonada por tecnologia, desafios e por criar soluções qu
 - 📊 Dashboard em Angular com ag-Grid
 - 🌿 Aplicação de Aromaterapia e Essências
 
-*(Se quiser, posso deixar os links desses projetos aqui também!)*
-
 ---
 
 ### 📊 Estatísticas do GitHub
