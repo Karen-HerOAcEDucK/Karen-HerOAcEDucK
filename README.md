@@ -8,8 +8,8 @@ Desenvolvedora Web apaixonada por tecnologia, desafios e por criar soluções qu
 
 ### 🌟 Sobre mim
 
-- 💼 Desenvolvedora Web na **Starplast**
-- 🛠️ Já atuei como estagiária no suporte na Soma Soluções
+- 💼 Desenvolvedora na **Starplast**
+- 🛠️ Já atuei como Analista de Suporte e também como Desenvolvedora Web na Soma Soluções
 - 📚 Em constante evolução com foco nas tecnologias mais atuais
 - 👩‍🎓 Estudando e me profissionalizando para me tornar uma dev cada vez mais completa
 - 🎯 Foco, dedicação e aprendizado fazem parte da minha jornada
